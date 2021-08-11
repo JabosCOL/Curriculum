@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    position: absolute;
+    left: 255px;
+    top: 60px;
+    padding-left: 25px;
+    padding-right: 10px;
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 40px;
+
+}
+
+.content h4{
+    color: rgb(82, 189, 247);
+    padding-top: 40px;
+}
+
+.content p{
+    font-size: 12px;
+    line-height: 150%;
+}
+
+.content_SM p{
+    padding-top: 30px;
+}
